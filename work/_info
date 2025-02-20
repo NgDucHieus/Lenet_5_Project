@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vALU
+!s110 1739771713
+!i10b 1
+!s100 d<RGViZzk2]f3^LL69mnn3
+IV1k0URd=BWE5d>GX6J4;;0
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/Admin/Desktop/Lenet_5_Project
+w1739754720
+8C:/Users/Admin/Desktop/Lenet_5_Project/work/ALU.v
+FC:/Users/Admin/Desktop/Lenet_5_Project/work/ALU.v
+L0 6
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z3 !s108 1739771712.000000
+!s107 C:\Users\Admin\Desktop\Lenet_5_Project\work\common.vh|C:/Users/Admin/Desktop/Lenet_5_Project/work/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Admin/Desktop/Lenet_5_Project/work/ALU.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@a@l@u
+vAnd
+!s110 1739771712
+!i10b 1
+!s100 Z5]Nf1WS7T:7meUHHWhG=0
+IjS:H3ni27BEQ:ak=>YWAh2
+R0
+R1
+w1739714283
+8C:/Users/Admin/Desktop/Lenet_5_Project/work/And_module
+FC:/Users/Admin/Desktop/Lenet_5_Project/work/And_module
+L0 1
+R2
+r1
+!s85 0
+31
+R3
+!s107 C:/Users/Admin/Desktop/Lenet_5_Project/work/And_module|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Admin/Desktop/Lenet_5_Project/work/And_module|
+!i113 1
+R4
+R5
+n@and
